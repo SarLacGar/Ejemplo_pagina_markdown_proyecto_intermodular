@@ -13,5 +13,6 @@ Aquí una línea separatoria
 
 Se crean escribiendo la palabra o texto enlazada entre [] corchetes, y el link en cuestión entre () paréntesis.
 
-Markdown	Resultado
-[enlace a página principal](https://github.com/SarLacGar/Ejemplo_pagina_markdown_proyecto_intermodular/index)	enlacea página principal
+Markdown	Resultado: 
+***
+[enlace a página principal](https://github.com/SarLacGar/Ejemplo_pagina_markdown_proyecto_intermodular/index)	
