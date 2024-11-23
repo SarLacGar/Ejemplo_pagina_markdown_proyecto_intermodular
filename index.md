@@ -16,5 +16,5 @@ Bienvenidos a este ejemplo de página creada con Markdown.
 
 ## Enlace a otra página
 
-Puedes visitar [este enlace]([https://github.com/SarLacGar/SarLacGar.github.io](https://github.com/SarLacGar/Ejemplo_pagina_enlaces_html)) para ver una  pagina en github en html en otro repositorio
+Puedes visitar [este enlace](https://github.com/SarLacGar/Ejemplo_pagina_enlaces_html) para ver una  pagina en github en html en otro repositorio
 
