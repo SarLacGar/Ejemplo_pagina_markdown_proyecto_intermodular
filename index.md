@@ -4,6 +4,7 @@
 Bienvenidos a este ejemplo de página creada con Markdown.
 
 ## Tabla de Ejemplo
+
 |Encabezado1 |Encabezado2|
 |------------|-----------|
 | Celda1     | Celda 2   | 
