@@ -31,4 +31,4 @@ Markdown Resultado:
 pues aqui codigo h2 <img>
 ```
 
-![imagen don´t worry] (images/dontworry.png "don´t worry be happy")
+![imagen don´t worry] (/images/dontworry.png)
