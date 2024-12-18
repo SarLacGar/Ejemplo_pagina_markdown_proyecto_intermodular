@@ -7,9 +7,9 @@ on:
 jobs:
   build-pdf:
     name: Build PDF
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: ./
