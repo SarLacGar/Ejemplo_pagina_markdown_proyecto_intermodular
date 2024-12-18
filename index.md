@@ -3,6 +3,7 @@
 
 Bienvenidos a este ejemplo de página creada con Markdown.
 
+Creamos una actualización para ver si se crea el nuevo *pdf*.
 ## Tabla de Ejemplo
 
 |Encabezado1 |Encabezado2|
